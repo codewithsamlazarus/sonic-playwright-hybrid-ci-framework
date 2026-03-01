@@ -9,7 +9,8 @@
   "keywords": [],
   "license": "ISC",
   "devDependencies": {
-    "@playwright/test": "^1.57.0",
+    "@playwright/mcp": "^0.0.68",
+    "@playwright/test": "^1.58.2",
     "@types/node": "^20.10.6",
     "@types/pg": "^8.11.6",
     "@types/video.js": "^7.3.58",
